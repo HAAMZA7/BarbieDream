@@ -44,12 +44,6 @@ dream-house/
 └── README.md
 ```
 
-## 📞 Contact
-
-- **Fondatrice** : Clara Beaumont
-- **Email** : contact@dreamhouse.fr
-- **Localisation** : Paris, France
-
 ## 📄 Licence
 
 © 2025 Hamza DJOUDI - Tous droits réservés.
