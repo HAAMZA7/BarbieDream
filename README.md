@@ -52,9 +52,9 @@ dream-house/
 
 ## 📄 Licence
 
-© 2025 Dream House - Tous droits réservés.
+© 2025 Hamza DJOUDI - Tous droits réservés.
 
-Ce code est la propriété exclusive de Dream House. Toute reproduction, distribution ou utilisation non autorisée est strictement interdite.
+Ce code est la propriété exclusive de Hamza DJOUDI. Toute reproduction, distribution ou utilisation non autorisée est strictement interdite.
 
 ---
 
